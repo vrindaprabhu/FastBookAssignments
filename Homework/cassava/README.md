@@ -6,7 +6,7 @@ https://www.kaggle.com/c/cassava-leaf-disease-classification
 - The first model is binary classification between class-3 and others.
 - The second model classifies the others into the rest of the four classes.
 - The final accuracy of this stacked pipeline is `86.82%`.
-- Notebook in `CassavaHW.ipynb` and some results analysis in `CassavaResultsAnalysis.ipnb`.
+- Notebook in `CassavaHW.ipynb` and some results analysis in `CassavaResultsAnalysis.ipynb`.
 
 This is personally very disaapointing since pure fine-tuning on all the five classes is easily able to breach 87%! :frowning_face:
 
