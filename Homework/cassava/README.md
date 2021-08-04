@@ -16,6 +16,7 @@ This is personally very disaapointing since pure fine-tuning on all the five cla
 - Abhishek Yadav: Reported a good improvement in performance based on FastAI versions! Intriguing!
 
 ## NOTES
-- It is quite evident that image augmentations has a good impact on the results. From Kevin's experiment and the kaggle kernels from the competition, lot of emphasis on this.
+- It is quite evident that image augmentations has a good impact on the results. From results seen in Kevin's experiment and the kaggle kernels from the competition, lot of emphasis has been laid on this.
 - A good optimizer and a different architecture also seems to have a say.
+- Can also play around with class weights and a supporting loss _(focal loss perhaps?)_.
 - Ensemble FTW! Quite literally!:smile:
